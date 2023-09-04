@@ -1,10 +1,18 @@
 # Craft Zone
 # Python
-# Background: Roche
-# Situation: All data are stored in monthly records excel. Need to know how many Product A were sold in the past year.
-# Task: Create a tool to query across multiple Excel and get the total number and records.
-# Action: Simulate the database and find results.
-# Result:
-# Query Across Multiple Excel Sheets.py
-# Query Across Multiple Excel Sheets.txt (VBA)
-# DataQuery.xlsm
+
+#Background: Craft Zone (DIY Store)
+
+#Situation: Need next site location.
+
+#Task: Analyze existing customers. And try to find useful data for next site location.
+
+#Action: Design the survey, and analyze the results in Python.
+
+#Result:
+
+#Craft Zones Studio Survey - Google Forms.pdf
+
+#Survey Analysis.ipynb
+
+#interactive_map.html (sample)
